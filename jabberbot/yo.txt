@@ -1,0 +1,18 @@
+Get that junk out of here. Valid syntax is:
+
+                1. @text-alert Razzle food is here
+                2. @szacharia metrics.adnxs.net/dashboard/Shaun
+                3. @walkup-music youtube.com/watch?v=4QRBcMMRz5M
+
+
+@alertall
+@mywalkupmusic
+if (spaces and no dot)
+	then text or counter
+else
+	link
+	
+	
+@szacharia You're cool
+@szacharia google.com  
+@szacharia counter 30

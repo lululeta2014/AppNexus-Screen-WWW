@@ -1,0 +1,61 @@
+/* 
+    Document   : main
+    Created on : Aug 10, 2011, 4:09:26 PM
+    Author     : azaman
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+html, body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+
+#frame {
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}
+
+#frame-url {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+}
+
+#frame-url-content {
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+#frame-shade {
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	opacity: .6;
+	position: absolute;
+	display: none;
+}
+
+#frame-message {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	display: none;
+}
+
+#frame-message-content {
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	text-align: center;
+	font-size: 64px;
+}
